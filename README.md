@@ -7,4 +7,4 @@
 2. run the **main.ipynb** (Can do run all).
 3. All output files will be stored in **output_files** folder.
 
- 
+Required Data: http://10.1.147.19:8888/tree/praveen/Projects/RR/intent_to_pay_v1 
